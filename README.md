@@ -6,10 +6,10 @@ Este projeto consiste em um aplicativo de lista de tarefas (To-Do List) desenvol
 
 ## 🧑‍🎓 Integrantes
 
-* **Caue:** [https://github.com/cauecassemiro](https://github.com/cauecassemiro)
-* **Ewelling:** [https://github.com/ewemf](https://github.com/ewemf)
-* **Gustavo:** [https://github.com/gustavomartinezx](https://github.com/gustavomartinezx)
-* Wellington
+* **Caue Cassemiro:** [https://github.com/cauecassemiro](https://github.com/cauecassemiro)
+* **Ewellyn Maria:** [https://github.com/ewemf](https://github.com/ewemf)
+* **Gustavo Martinez:** [https://github.com/gustavomartinezx](https://github.com/gustavomartinezx)
+* **wellington Junior**
 
 ## 👨‍🏫 Professor
 
