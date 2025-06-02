@@ -1,4 +1,4 @@
-# ✅ To-Do List Android
+# ✅ To-Do List 
 
 ## 📱 Trabalho da Disciplina Programação Para Dispositivos Móveis
 
@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📂 Estrutura do Projeto
 
-A estrutura básica do projeto Android inclui:
+A estrutura básica do projeto inclui:
 
 * `MainActivity.kt`: Contém a lógica principal da interface do usuário e a interação com o banco de dados.
 * `item_todo.xml`: Layout para cada item da lista de tarefas, exibindo a descrição, o status de conclusão e a opção de exclusão.
