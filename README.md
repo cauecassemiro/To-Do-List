@@ -60,4 +60,4 @@ Este projeto não possui uma licença específica definida. O código é para fi
 
 ---
 
-🙏 Agradecemos ao professor Leandro Santana de Melo pela orientação e aos colegas Caue, Ewelling e Gustavo pela colaboração neste projeto. Adicione o link do GitHub do Wellington aqui quando tiver.
+🙏 Agradecemos ao professor Leandro Santana de Melo pela orientação e aos colegas Caue, Ewelling, Gustavo e Wellington pela colaboração neste projeto. 
