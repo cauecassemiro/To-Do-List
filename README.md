@@ -1,6 +1,6 @@
 # ✅ To-Do List 
 
-## 📱 Trabalho da Disciplina Programação Para Dispositivos Móveis
+## 📱 Trabalho da Disciplina: Programação Para Dispositivos Móveis
 
 Este projeto consiste em um aplicativo de lista de tarefas (To-Do List) desenvolvido para a disciplina de Programação Para Dispositivos Móveis da faculdade. O objetivo principal é permitir que os usuários criem, gerenciem e acompanhem suas tarefas de forma eficiente em dispositivos Android.
 
